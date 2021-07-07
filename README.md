@@ -38,6 +38,6 @@ This APP doesn't persist the data, once you restart the server data will be gone
 
 To get the contract of the sevice, Please visit:
 
-http://http://localhost:8080/documentation
+http://localhost:8080/documentation
 
 This will give you swagger documentation of the API's
