@@ -1,4 +1,4 @@
-# SUrvey Service
+# Anonymous Survey Service
 This APP is use to create and record anonymous surveys.
 This APP saves the data in Local JSON file src/app/data/surveys.json to store the surveyDetails,
 and stores the precalculated survey results in  src/app/data/results.json
